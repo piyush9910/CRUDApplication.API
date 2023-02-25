@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hdbrTl2eH2BjbUu5OdsA15rq2bC2ObHwhPe5EMsIWFw=",
+  "Source": "CRUDApplication.API",
+  "BasePath": "_content/CRUDApplication.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
